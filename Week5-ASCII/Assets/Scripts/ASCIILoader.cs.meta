@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a49a1a3ad65872342ba05ac86d047382
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 6262587717548821305, guid: 1914238c434b8cb4d9b03e066f7626d5,
+      type: 3}
+  - wall: {fileID: 274515326736839816, guid: d70d2734fa9d44440a9b29c315c422b5, type: 3}
+  - obstacle: {fileID: 9051875001781458035, guid: b37c026f4a705fe41b47a25af893865c,
+      type: 3}
+  - black: {fileID: 4668881686018421088, guid: 0325a9d533ac6d843ab62915a0490e3b, type: 3}
+  - red: {fileID: 6023407834718555821, guid: a3ea12a72cbaaeb4c804913036bea0f5, type: 3}
+  - orange: {fileID: 2521623025322363663, guid: a3068add479aee548a81575b1d93619d,
+      type: 3}
+  - yellow: {fileID: 2981602731395873043, guid: 08252b969181f4a48b3d8577ac1c8273,
+      type: 3}
+  - blue: {fileID: 2609859310199352336, guid: 6599c16a32b57b147b7c87003141bfaf, type: 3}
+  - green: {fileID: 123623059966117611, guid: c291824b9e3ce20478f36539392e2061, type: 3}
+  - purple: {fileID: 2718672255911999214, guid: 657b31ea0fedb224bb1691d90c829b51,
+      type: 3}
+  - pink: {fileID: 5476532914430470233, guid: aa48271363bc9a148b27f105dcce0e10, type: 3}
+  - navy: {fileID: 8671135150862341439, guid: c7515ad940fe7154ca767c05ba4e85ec, type: 3}
+  - brown: {fileID: 6513130674453344618, guid: fe49e8cb9315cd048ad2bdf2af4f1463, type: 3}
+  - level: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

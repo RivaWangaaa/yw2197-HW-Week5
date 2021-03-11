@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Week5-ASCII.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\NYU\研一冬季\Code Lab 1\yw2197-HW-Week5\Week5-ASCII\.idea\.idea.Week5-ASCII\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
